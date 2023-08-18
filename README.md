@@ -1,6 +1,6 @@
 #Mathematical-Modeling
 
-Project C of 2020 Shenzhen Cup Mathematical Modeling (National Competition) (Environment python)
+Project C of 2020 Shenzhen Cup Mathematical Modeling (National Competition) 
 
 The code folder is the source code
 
